@@ -55,3 +55,7 @@ npm run dev
 npm run build
 npm run preview
 ```
+
+## Autor
+
+Developed by [CaioMassola](https://github.com/CaioMassola)
